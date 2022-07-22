@@ -36,9 +36,9 @@ El Usuario deberia ser capaz de:
 
 ### Links 🔗
 
-- URL de la solucion: [Github](https://github.com/gabrielteresczuk/huddle-landing-page-with-single-introductory-section-master) 📌
+- URL de la solucion: [Github](https://github.com/gabrielteresczuk/fylo-landing) 📌
 
-- URL del Sitio en Vivo: [Demo](https://gabrielteresczuk.github.io/huddle-landing-page-with-single-introductory-section-master/) 👀
+- URL del Sitio en Vivo: [Demo](https://gabrielteresczuk.github.io/fylo-landing/) 👀
 
 ## Proceso 🔨
 
